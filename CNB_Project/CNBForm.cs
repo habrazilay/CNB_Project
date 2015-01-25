@@ -16,12 +16,15 @@ namespace CNB_Project
         public CNBForm()
         {
             InitializeComponent();
+            nextBtn.Visible = false;
         }
 
         private void startBtn_Click(object sender, EventArgs e)
         {
-            timeQuestiosPanel.Visible = true;
             welcomeLabel.Visible = false;
+            startBtn.Visible = false;
+            timeQuestiosPanel.Visible = true;
+            nextBtn.Visible = true;
         }
 
     }
