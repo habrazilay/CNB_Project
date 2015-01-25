@@ -20,13 +20,8 @@ namespace CNB_Project
 
         private void startBtn_Click(object sender, EventArgs e)
         {
-            welcomeLabel.Visible = false;
             timeQuestiosPanel.Visible = true;
-        }
-
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
+            welcomeLabel.Visible = false;
         }
 
     }
