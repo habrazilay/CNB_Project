@@ -1,21 +1,9 @@
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe.config
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.pdb
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csprojResolveAssemblyReference.cache
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.Properties.Resources.resources
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.CNBForm.resources
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csproj.GenerateResource.Cache
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.exe
-e:\documents\visual studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.pdb
-E:\Documents\GitHub\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe.config
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.exe
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.pdb
-E:\Documents\GitHub\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe
-E:\Documents\GitHub\CNB_Project\CNB_Project\bin\Debug\CNB_Project.pdb
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csprojResolveAssemblyReference.cache
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.Properties.Resources.resources
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.CNBForm.resources
-E:\Documents\GitHub\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe.config
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.exe
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\bin\Debug\CNB_Project.pdb
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.Properties.Resources.resources
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.CNBForm.resources
+D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.csproj.GenerateResource.Cache
 D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.exe
 D:\Documents\Visual Studio 2013\Projects\CNB_Project\CNB_Project\obj\Debug\CNB_Project.pdb
